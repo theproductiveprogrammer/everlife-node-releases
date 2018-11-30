@@ -99,7 +99,7 @@ chatbot. To start this use:
         Windows:
             C:\Users\John\elife> run gui
         Docker:
-            $ ./run.sh gui
+            $> ./run.sh gui
 
 This will launch a GUI which you can use to chat with your avatar.
 
@@ -114,7 +114,7 @@ steps for doing this are as follows:
 1. Go to [Telegram](https://telegram.me/botfather) to create a bot by
    typing
 
-       `/newbot`
+            /newbot
 
     command to create your telegram bot.
 
@@ -175,7 +175,7 @@ Now that your avatar is set up you can start him up by running
 
         C:\Users\John\elife> run avatar (Windows)
 
-        $ ./run.sh avatar (Docker)
+        $> ./run.sh avatar (Docker)
 
 
 Now you can go to your interface of choice (Telegram or QWERT) and start
@@ -192,7 +192,7 @@ running.
 Your avatar will keep running in the background and is expected to run
 even after you restart your machine. To stop the avatar please run:
 
-        ./run.sh stop
+        $> ./run.sh stop
 
 
 ## Next steps
@@ -205,9 +205,9 @@ even after you restart your machine. To stop the avatar please run:
 
 2. Install and try out various skills
 
-        "/help"
-        "/install calculator"
-        "/install what-wine"
+        /help
+        /install calculator
+        /install what-wine
 
 
 Feel free to provide us your feedback and issues in our [discord support
