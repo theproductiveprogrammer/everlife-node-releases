@@ -173,7 +173,9 @@ folder as it contains your `Everchain`, your `database`, and your
 
 Now that your avatar is set up you can start him up by running
 
-        ./run.sh avatar
+        C:\Users\John\elife> run avatar (Windows)
+
+        $ ./run.sh avatar (Docker)
 
 
 Now you can go to your interface of choice (Telegram or QWERT) and start
